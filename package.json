@@ -1,0 +1,17 @@
+{
+  "name": "futbol-bot-projesi",
+  "version": "1.0.0",
+  "description": "Maze Development Futbol Eğlence Botu",
+  "main": "anadosya.js",
+  "scripts": {
+    "start": "node anadosya.js"
+  },
+  "author": "MazeDev-YiteneR",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.db": "2.2.6",
+    "aoi.js": "^6.7.1",
+    "axios": "0.21.4",
+    "express": "4.17.1"
+  }
+}
